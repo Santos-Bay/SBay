@@ -2,4 +2,4 @@
 This is my first repository. 
 Hi!
 
-Here is a change by Hugh!
+Here is a change by Hugh! And another.
